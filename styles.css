@@ -1,0 +1,72 @@
+body 
+{background-color: rgb(255, 199, 199);
+background-image: url(img/fondopastel.png);
+background-repeat: no-repeat;
+background-repeat: repeat-y ;}
+
+#titulo 
+
+{font-size: 50px;
+color: rgb(146, 146, 131);
+text-align: center;
+font-style: oblique;
+font-family: 'Franklin Gothic Medium',
+font-stretch: narrower;}
+
+img {
+    display: block;
+    width: 600px;
+    margin: 50px auto 50px auto;
+    border-radius: 8px;
+}
+
+h2 
+{font-size: 40px; font-style: oblique;
+    color: rgb(168, 161, 161);
+text-align: center;}
+
+
+
+a{
+    display: block;
+    width: max-content;
+    margin: auto;
+    text-align: center;
+    background-color: beige;
+    padding: 10px 15px;
+    color: rgb(255, 184, 179);
+    text-decoration: none;
+    border-radius: 3px;
+    transition: all;
+}
+a:hover{padding: 15px 20px;}
+
+h3 
+{font-size: 40px; font-style: oblique;
+    color: rgb(168, 161, 161);
+    text-align: center;}
+
+li {
+    color: rgb(168, 161, 161);
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 
+}
+
+.preparacion {              
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.ingredientes {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredientes ul {
+    margin-left: auto;
+    margin-right: auto;
+}
